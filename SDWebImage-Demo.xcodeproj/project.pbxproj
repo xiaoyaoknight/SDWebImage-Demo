@@ -7,14 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B3A08FD995612494387CBD44 /* libPods-SDWebImage-Demo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A748D814436222DA77E88FE7 /* libPods-SDWebImage-Demo.a */; };
+		C7399F6822B229A700EFDC75 /* Test7ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7399F6722B229A700EFDC75 /* Test7ViewController.m */; };
+		C7399F6B22B22ACD00EFDC75 /* Test8ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7399F6A22B22ACD00EFDC75 /* Test8ViewController.m */; };
+		C7399F6E22B22AD600EFDC75 /* Test9ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7399F6D22B22AD600EFDC75 /* Test9ViewController.m */; };
+		C7A0A52622B1F960008D4859 /* Test6ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A0A52522B1F960008D4859 /* Test6ViewController.m */; };
+		C7C7431022B1FCFB00C28A75 /* rock.gif in Resources */ = {isa = PBXBuildFile; fileRef = C7C7430F22B1FCFB00C28A75 /* rock.gif */; };
 		C7F54F6322B096AA00610961 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54F6222B096AA00610961 /* AppDelegate.m */; };
-		C7F54F6622B096AA00610961 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54F6522B096AA00610961 /* ViewController.m */; };
 		C7F54F6922B096AA00610961 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7F54F6722B096AA00610961 /* Main.storyboard */; };
 		C7F54F6B22B096AB00610961 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7F54F6A22B096AB00610961 /* Assets.xcassets */; };
 		C7F54F6E22B096AB00610961 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7F54F6C22B096AB00610961 /* LaunchScreen.storyboard */; };
 		C7F54F7122B096AB00610961 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54F7022B096AB00610961 /* main.m */; };
 		C7F54F7B22B096AB00610961 /* SDWebImage_DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54F7A22B096AB00610961 /* SDWebImage_DemoTests.m */; };
 		C7F54F8622B096AB00610961 /* SDWebImage_DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54F8522B096AB00610961 /* SDWebImage_DemoUITests.m */; };
+		C7F54F9522B096C500610961 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54F9322B096C500610961 /* RootViewController.m */; };
+		C7F54F9822B096D000610961 /* Test1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54F9622B096D000610961 /* Test1ViewController.m */; };
+		C7F54F9B22B0AF1700610961 /* Test2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54F9A22B0AF1700610961 /* Test2ViewController.m */; };
+		C7F54F9E22B0DBB700610961 /* Test3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54F9D22B0DBB700610961 /* Test3ViewController.m */; };
+		C7F54FA122B0DBC600610961 /* Test4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54FA022B0DBC600610961 /* Test4ViewController.m */; };
+		C7F54FA422B0DBD800610961 /* Test5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7F54FA322B0DBD800610961 /* Test5ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,11 +46,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5B954ED92773518C946C4F86 /* Pods-SDWebImage-Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDWebImage-Demo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SDWebImage-Demo/Pods-SDWebImage-Demo.debug.xcconfig"; sourceTree = "<group>"; };
+		6E8B23034FCF388FFA62828F /* Pods-SDWebImage-Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDWebImage-Demo.release.xcconfig"; path = "Pods/Target Support Files/Pods-SDWebImage-Demo/Pods-SDWebImage-Demo.release.xcconfig"; sourceTree = "<group>"; };
+		A748D814436222DA77E88FE7 /* libPods-SDWebImage-Demo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SDWebImage-Demo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C7399F6622B229A700EFDC75 /* Test7ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test7ViewController.h; sourceTree = "<group>"; };
+		C7399F6722B229A700EFDC75 /* Test7ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test7ViewController.m; sourceTree = "<group>"; };
+		C7399F6922B22ACD00EFDC75 /* Test8ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test8ViewController.h; sourceTree = "<group>"; };
+		C7399F6A22B22ACD00EFDC75 /* Test8ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test8ViewController.m; sourceTree = "<group>"; };
+		C7399F6C22B22AD600EFDC75 /* Test9ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test9ViewController.h; sourceTree = "<group>"; };
+		C7399F6D22B22AD600EFDC75 /* Test9ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test9ViewController.m; sourceTree = "<group>"; };
+		C7A0A52422B1F960008D4859 /* Test6ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test6ViewController.h; sourceTree = "<group>"; };
+		C7A0A52522B1F960008D4859 /* Test6ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test6ViewController.m; sourceTree = "<group>"; };
+		C7C7430E22B1FBB400C28A75 /* Config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Config.h; sourceTree = "<group>"; };
+		C7C7430F22B1FCFB00C28A75 /* rock.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rock.gif; sourceTree = "<group>"; };
 		C7F54F5E22B096AA00610961 /* SDWebImage-Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SDWebImage-Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7F54F6122B096AA00610961 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C7F54F6222B096AA00610961 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		C7F54F6422B096AA00610961 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		C7F54F6522B096AA00610961 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		C7F54F6822B096AA00610961 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C7F54F6A22B096AB00610961 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7F54F6D22B096AB00610961 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +73,18 @@
 		C7F54F8122B096AB00610961 /* SDWebImage-DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SDWebImage-DemoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7F54F8522B096AB00610961 /* SDWebImage_DemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SDWebImage_DemoUITests.m; sourceTree = "<group>"; };
 		C7F54F8722B096AB00610961 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7F54F9322B096C500610961 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		C7F54F9422B096C500610961 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		C7F54F9622B096D000610961 /* Test1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test1ViewController.m; sourceTree = "<group>"; };
+		C7F54F9722B096D000610961 /* Test1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test1ViewController.h; sourceTree = "<group>"; };
+		C7F54F9922B0AF1700610961 /* Test2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test2ViewController.h; sourceTree = "<group>"; };
+		C7F54F9A22B0AF1700610961 /* Test2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test2ViewController.m; sourceTree = "<group>"; };
+		C7F54F9C22B0DBB700610961 /* Test3ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test3ViewController.h; sourceTree = "<group>"; };
+		C7F54F9D22B0DBB700610961 /* Test3ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test3ViewController.m; sourceTree = "<group>"; };
+		C7F54F9F22B0DBC600610961 /* Test4ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test4ViewController.h; sourceTree = "<group>"; };
+		C7F54FA022B0DBC600610961 /* Test4ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test4ViewController.m; sourceTree = "<group>"; };
+		C7F54FA222B0DBD800610961 /* Test5ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test5ViewController.h; sourceTree = "<group>"; };
+		C7F54FA322B0DBD800610961 /* Test5ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test5ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +92,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3A08FD995612494387CBD44 /* libPods-SDWebImage-Demo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +113,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5D3609D1310BC5E43D111A35 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A748D814436222DA77E88FE7 /* libPods-SDWebImage-Demo.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8773CD9D5EB4A451FDE813F1 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5B954ED92773518C946C4F86 /* Pods-SDWebImage-Demo.debug.xcconfig */,
+				6E8B23034FCF388FFA62828F /* Pods-SDWebImage-Demo.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		C7F54F5522B096AA00610961 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +137,8 @@
 				C7F54F7922B096AB00610961 /* SDWebImage-DemoTests */,
 				C7F54F8422B096AB00610961 /* SDWebImage-DemoUITests */,
 				C7F54F5F22B096AA00610961 /* Products */,
+				8773CD9D5EB4A451FDE813F1 /* Pods */,
+				5D3609D1310BC5E43D111A35 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,10 +155,30 @@
 		C7F54F6022B096AA00610961 /* SDWebImage-Demo */ = {
 			isa = PBXGroup;
 			children = (
+				C7C7430F22B1FCFB00C28A75 /* rock.gif */,
+				C7C7430E22B1FBB400C28A75 /* Config.h */,
 				C7F54F6122B096AA00610961 /* AppDelegate.h */,
 				C7F54F6222B096AA00610961 /* AppDelegate.m */,
-				C7F54F6422B096AA00610961 /* ViewController.h */,
-				C7F54F6522B096AA00610961 /* ViewController.m */,
+				C7F54F9422B096C500610961 /* RootViewController.h */,
+				C7F54F9322B096C500610961 /* RootViewController.m */,
+				C7F54F9722B096D000610961 /* Test1ViewController.h */,
+				C7F54F9622B096D000610961 /* Test1ViewController.m */,
+				C7F54F9922B0AF1700610961 /* Test2ViewController.h */,
+				C7F54F9A22B0AF1700610961 /* Test2ViewController.m */,
+				C7F54F9C22B0DBB700610961 /* Test3ViewController.h */,
+				C7F54F9D22B0DBB700610961 /* Test3ViewController.m */,
+				C7F54F9F22B0DBC600610961 /* Test4ViewController.h */,
+				C7F54FA022B0DBC600610961 /* Test4ViewController.m */,
+				C7F54FA222B0DBD800610961 /* Test5ViewController.h */,
+				C7F54FA322B0DBD800610961 /* Test5ViewController.m */,
+				C7A0A52422B1F960008D4859 /* Test6ViewController.h */,
+				C7A0A52522B1F960008D4859 /* Test6ViewController.m */,
+				C7399F6622B229A700EFDC75 /* Test7ViewController.h */,
+				C7399F6722B229A700EFDC75 /* Test7ViewController.m */,
+				C7399F6922B22ACD00EFDC75 /* Test8ViewController.h */,
+				C7399F6A22B22ACD00EFDC75 /* Test8ViewController.m */,
+				C7399F6C22B22AD600EFDC75 /* Test9ViewController.h */,
+				C7399F6D22B22AD600EFDC75 /* Test9ViewController.m */,
 				C7F54F6722B096AA00610961 /* Main.storyboard */,
 				C7F54F6A22B096AB00610961 /* Assets.xcassets */,
 				C7F54F6C22B096AB00610961 /* LaunchScreen.storyboard */,
@@ -139,6 +213,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C7F54F8A22B096AB00610961 /* Build configuration list for PBXNativeTarget "SDWebImage-Demo" */;
 			buildPhases = (
+				AFDF6EA3152391BAB3DA668F /* [CP] Check Pods Manifest.lock */,
 				C7F54F5A22B096AA00610961 /* Sources */,
 				C7F54F5B22B096AA00610961 /* Frameworks */,
 				C7F54F5C22B096AA00610961 /* Resources */,
@@ -238,6 +313,7 @@
 				C7F54F6E22B096AB00610961 /* LaunchScreen.storyboard in Resources */,
 				C7F54F6B22B096AB00610961 /* Assets.xcassets in Resources */,
 				C7F54F6922B096AA00610961 /* Main.storyboard in Resources */,
+				C7C7431022B1FCFB00C28A75 /* rock.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,13 +333,47 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		AFDF6EA3152391BAB3DA668F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SDWebImage-Demo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		C7F54F5A22B096AA00610961 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7F54F6622B096AA00610961 /* ViewController.m in Sources */,
+				C7F54FA122B0DBC600610961 /* Test4ViewController.m in Sources */,
+				C7F54F9B22B0AF1700610961 /* Test2ViewController.m in Sources */,
+				C7F54F9822B096D000610961 /* Test1ViewController.m in Sources */,
+				C7F54F9E22B0DBB700610961 /* Test3ViewController.m in Sources */,
+				C7399F6E22B22AD600EFDC75 /* Test9ViewController.m in Sources */,
+				C7F54FA422B0DBD800610961 /* Test5ViewController.m in Sources */,
 				C7F54F7122B096AB00610961 /* main.m in Sources */,
+				C7399F6B22B22ACD00EFDC75 /* Test8ViewController.m in Sources */,
+				C7399F6822B229A700EFDC75 /* Test7ViewController.m in Sources */,
+				C7A0A52622B1F960008D4859 /* Test6ViewController.m in Sources */,
+				C7F54F9522B096C500610961 /* RootViewController.m in Sources */,
 				C7F54F6322B096AA00610961 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -433,6 +543,7 @@
 		};
 		C7F54F8B22B096AB00610961 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5B954ED92773518C946C4F86 /* Pods-SDWebImage-Demo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -449,6 +560,7 @@
 		};
 		C7F54F8C22B096AB00610961 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6E8B23034FCF388FFA62828F /* Pods-SDWebImage-Demo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;

@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  Test5ViewController.h
 //  SDWebImage-Demo
 //
 //  Created by 王泽龙 on 2019/6/12.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface Test5ViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
